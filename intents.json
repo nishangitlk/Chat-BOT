@@ -1,5 +1,25 @@
 {
   "intents": [
-    
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Hi there",
+        "Are you there?",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, I am here",
+        "Hi, Good to see you",
+        "Hi there, what can I do for you?",
+        "Hi, welcome to online education counseling service",
+        "Hello, how can I help?"
+      ]
+    }
   ]
 }
