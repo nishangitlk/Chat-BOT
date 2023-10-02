@@ -19,6 +19,26 @@
         "Hi there, what can I do for you?",
         "Hi, welcome to online education counseling service",
         "Hello, how can I help?"
+        }
+        {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Nice chatting with you, Bye",
+        "Goodbye",
+        "Later, I will come"
+      ],
+      "responses": [
+        "See you",
+        "Bye!",
+        "Ok, Bye!",
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon.",
+        "Have a great time, Bye"
+      ]
+    },
       ]
     }
   ]
