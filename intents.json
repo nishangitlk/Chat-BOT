@@ -38,6 +38,22 @@
         "Bye! Come back again soon.",
         "Have a great time, Bye"
       ]
+            "patterns": [
+        "Bye",
+        "See you later",
+        "Nice chatting with you, Bye",
+        "Goodbye",
+        "Later, I will come"
+      ],
+      "responses": [
+        "See you",
+        "Bye!",
+        "Ok, Bye!",
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon.",
+        "Have a great time, Bye"
+      ]
     },
       ]
     }
